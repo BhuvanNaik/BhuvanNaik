@@ -17,7 +17,7 @@ I'm Currently 3rd year Student at Sri Jayachamarajendra College of Engineering
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhuvanNaik/BhuvanNaik/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhuvanNaik/BhuvanNaik/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BhuvanNaik/BhuvanNaik/output/github-snake.svg" />
 </picture>
