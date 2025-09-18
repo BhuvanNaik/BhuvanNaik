@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bhuvan
 I'm Currently a 3rd year Student at Sri Jayachamarajendra College of Engineering.
-🚀 Full-Stack Dev | DSA Enthusiast | Tech Explorer 👨‍💻 CS Undergrad | MERN Stack 🚀 | C++ DSA 🔍 🔧 Building Projects | Solving Problems | Learning Always 📚 ⚡ Turning Ideas into Code | 4⭐ HackerRank | 500+ LeetCode
+🚀 DSA Enthusiast | Tech Explorer 👨‍💻 CS Undergrad | C++ DSA 🔍 🔧 Building Projects | Solving Problems | Learning Always 📚 ⚡ Turning Ideas into Code | 4⭐ HackerRank | 500+ LeetCode
 
 
 ## 🌐 Where to find me:
